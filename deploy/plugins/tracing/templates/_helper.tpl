@@ -18,10 +18,6 @@
     {{- printf "jaeger-operator-jaeger-collector.%s:4318" .Release.Namespace -}}
 {{- end -}}
 
-{{- define "jaeger.collector.otel.address" -}}
-    {{- printf "http://jaeger-operator-jaeger-collector.%s:14250" .Release.Namespace -}}
-{{- end -}}
-
 {{- define "jaeger.zipkin.address" -}}
     {{- printf "jaeger-operator-jaeger-collector.%s:9411" .Release.Namespace -}}
 {{- end -}}
