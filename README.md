@@ -5,6 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubegems/kubegems)](https://goreportcard.com/report/github.com/kubegems/kubegems)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/kubegems/kubegems?logo=go)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubegems/kubegems?logo=github&sort=semver)](https://github.com/kubegems/kubegems/releases/latest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinkMaq%2Fkubegems.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinkMaq%2Fkubegems?ref=badge_shield)
 
 ![Kubegems](https://www.kubegems.io/img/logo.svg)
 
@@ -34,3 +35,6 @@ Refer to [CONTRIBUTING.md](https://github.com/kubegems/kubegems/blob/main/CONTRI
 ## License
 
 Apache License 2.0, see [LICENSE](https://github.com/kubegems/kubegems/blob/main/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinkMaq%2Fkubegems.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinkMaq%2Fkubegems?ref=badge_large)
